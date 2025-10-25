@@ -1,0 +1,4470 @@
+[
+    {
+        "type": "image",
+        "img_path": "images/b6dc348f07caa49019f52d9b0d5f369c58c883f12c44e40c02a2951c8c10c1c2.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            3,
+            0,
+            1000,
+            557
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ASICS Social Listening Report ",
+        "text_level": 1,
+        "bbox": [
+            50,
+            627,
+            503,
+            696
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "April 2025 ",
+        "bbox": [
+            51,
+            735,
+            160,
+            781
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "PART ",
+        "text_level": 1,
+        "bbox": [
+            43,
+            422,
+            194,
+            503
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "APR-25 ASICS与竞争品牌社媒表现总览 ",
+        "bbox": [
+            40,
+            535,
+            603,
+            611
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "ASICS 4月\\*社媒表现SCORECARD ",
+        "text_level": 1,
+        "bbox": [
+            244,
+            46,
+            705,
+            116
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "DATA SCOPE: 2025/3/25 – 2025/4/24注：自4月起，月数据范围调整为上月25日至当月24日",
+        "bbox": [
+            42,
+            133,
+            395,
+            198
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "核心指标",
+        "text_level": 1,
+        "bbox": [
+            39,
+            222,
+            128,
+            270
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "声量 153,922 -1.57M Rank #3 in Total 7 ↓2 ",
+        "bbox": [
+            95,
+            309,
+            302,
+            529
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "互动量 1.34M -5.56M Rank #4 in Total 7 - ↓1 ",
+        "bbox": [
+            413,
+            309,
+            600,
+            529
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "情感表现 (UGC NSR) 90.3 -6.3 Rank #4 in Total 7 ↓3 ",
+        "bbox": [
+            728,
+            305,
+            890,
+            529
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "分类拆解",
+        "text_level": 1,
+        "bbox": [
+            38,
+            607,
+            129,
+            657
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/3eaf37e2cdb4fc4c81eb8a024ffb292243e1bb0ec3c1f5f57d9d2089b9e20bd4.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            42,
+            709,
+            960,
+            894
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "ASICS 4月声量出现明显波动，波峰由EDGE ENGAGING展览活动带来，活动期后声量下降，趋于平稳；此前官宣品牌大使田嘉瑞余热延续，本月活动中品牌顺势而为，借助粉丝生态的影响力，推高活动关注度",
+        "text_level": 1,
+        "bbox": [
+            51,
+            31,
+            886,
+            109
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/50d81dc0a85680f1dd57305fc1af12b97db75afe5b428c9c46e6e04a3f12a0a9.jpg",
+        "image_caption": [
+            "dasics ",
+            "ASICS 4月社媒表现趋势"
+        ],
+        "image_footnote": [],
+        "bbox": [
+            38,
+            175,
+            644,
+            587
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/7a6c074517a4a8b263a7bbea67ae9f590e689a8fcea7ef174e484a2fd94bee0e.jpg",
+        "image_caption": [
+            "ASICS社媒传播词云 "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            676,
+            200,
+            966,
+            524
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "明星效应",
+        "text_level": 1,
+        "bbox": [
+            678,
+            553,
+            722,
+            575
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "n 品牌大使田嘉瑞的声量占比约 $83 \\%$ ",
+        "bbox": [
+            752,
+            555,
+            895,
+            577
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "品牌活动",
+        "text_level": 1,
+        "bbox": [
+            678,
+            609,
+            722,
+            633
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.7 声量高峰",
+        "text_level": 1,
+        "bbox": [
+            75,
+            625,
+            134,
+            650
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "「EDGE ENGAGING」主题展览的声量占比约 $11 \\%$ ",
+        "bbox": [
+            763,
+            611,
+            944,
+            635
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.10 声量高峰",
+        "text_level": 1,
+        "bbox": [
+            278,
+            625,
+            343,
+            650
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.10-4.11 互动量高峰",
+        "text_level": 1,
+        "bbox": [
+            478,
+            625,
+            576,
+            650
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/bc088c05d275c188514a115c17b399cc097e49886dbbccf21e414d8bd0cddfb0.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            50,
+            662,
+            70,
+            701
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Edge Engaging主题展览预热 ",
+        "text_level": 1,
+        "bbox": [
+            93,
+            666,
+            236,
+            690
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "@ASICS亚瑟士官方账号携手品牌大使田嘉瑞发布 「EDGE ENGAGING」 线下主题展览预热短片",
+        "bbox": [
+            77,
+            694,
+            213,
+            746
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/f87826e407ef7acbf42be166e979a6f4f09ce17508ff04b2e84d59d28ff9d82c.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            105,
+            750,
+            159,
+            909
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "品牌活动图集和活动视频",
+        "text_level": 1,
+        "bbox": [
+            294,
+            666,
+            411,
+            688
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "@田嘉瑞出席ASICS品牌活动，时尚博主及超话大粉发布活动图集和活动视频  \nlink1 link2",
+        "bbox": [
+            283,
+            692,
+            413,
+            766
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/e57ab7bbd233dafa5ace333466c9bd3368fcf2e6fad01fd2edee9d52dbcb2ada.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            255,
+            790,
+            418,
+            911
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Edge Engaging主题展览开启 ",
+        "text_level": 1,
+        "bbox": [
+            493,
+            664,
+            636,
+            688
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "@田嘉瑞与@ASICS亚瑟士官方账号发帖分享「EDGE ENGAGING」主题展览，超话大粉持续转发，明星效应带动活动热度  \nlink1 link2",
+        "bbox": [
+            483,
+            692,
+            613,
+            781
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/2028784458534fd12cd27363c5c92ccd84ab69f86f888952c25c9bbc384355c7.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            460,
+            787,
+            626,
+            950
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/831cec4b5c1fdd511b06b73ddc3e1cd90a82e36d173683e556860fe1f757ca95.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            664,
+            670,
+            798,
+            785
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/c495f24b6b3740de86744f4c6c06c26fd4fbdfcdcf51e9c9619e7a0dfc84ee26.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            665,
+            805,
+            798,
+            929
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "“#田嘉瑞空降巨鹿路758# @田嘉瑞6 穿 GEL-DS TRAINER14炸场ASICS主题展！ 复 古拼接鞋面+金属光影，走路带风诠释 「随机敢应」--不确定的世界，就用 自洽步伐破局！\"link ",
+        "bbox": [
+            821,
+            674,
+            967,
+            766
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "“一起共赴 「EDGE ENGAGING」 线下主题展览送花花[送花花[送花花#田嘉瑞亚瑟士品牌大使官宣##asics亚瑟士品牌大使田嘉瑞link",
+        "bbox": [
+            821,
+            783,
+            971,
+            857
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "“感谢@ASICS亚瑟士的邀请,来到ASICS亚 瑟士「EDGE,ENGAGING」主题展览见证 潮流表达与先锋艺术的大胆碰撞！\"link ",
+        "bbox": [
+            822,
+            875,
+            970,
+            933
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4月社媒指标概览",
+        "text_level": 1,
+        "bbox": [
+            83,
+            133,
+            173,
+            161
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "↑2 声量 监测品牌中位列#1 互动量 监测品牌中位列#1 情感表现 监测品牌中位列 #3 - ",
+        "bbox": [
+            46,
+            174,
+            171,
+            290
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/009a2233b7ca640d813e8f131327cc07f70a42079301a32c2d278e95ddd18a42.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            30,
+            322,
+            52,
+            359
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4月营销动作总结",
+        "text_level": 1,
+        "bbox": [
+            82,
+            327,
+            172,
+            355
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "新品发布 重要产品条线锋芒、 冠军乘风和旅步相继推出代际更新，产品传播上均突出其科技含量（氮科技、TPU材质等）和性能表现（减震、缓震等），彰显应对各自运动场景的专业性",
+        "bbox": [
+            47,
+            368,
+            218,
+            516
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "体育资产 林孝埈和三人篮球国家队的签约，在扩充体育明星资产的同时或暗藏品牌对未来运动赛道侧重性上的考量",
+        "bbox": [
+            47,
+            546,
+            215,
+            635
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4月消费者口碑摘要",
+        "text_level": 1,
+        "bbox": [
+            76,
+            657,
+            179,
+            687
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "正面反馈分析 ANTA本月收购狼爪的行动整体收获称赞，代言人粉丝也持续活跃于社媒；产品端马赫系列一骑当先实战性能受到追捧",
+        "bbox": [
+            50,
+            722,
+            216,
+            838
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "负面反馈分析 部分网友担忧ANTA的收购行为会对狼爪的品质及价格产生消极影响，同时一些消费者反馈安踏的部分核心产品性价比不高（C202、KAI等)",
+        "bbox": [
+            47,
+            853,
+            216,
+            972
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "l ANTA 4月社媒整体表现维持高水准，声量和互动量均较上月提升较多，排名均重归榜首；BGC和PGC占比略有下降，但两者绝对值仍大幅领先l ANTA推进各产品条线的更新换代，传播上突出科技含量与性能表现；同时，通过签约速滑和篮球运动员/队伍进一步扩充其体育明星阵容l ANTA消费者对马赫系列的关注更胜往日，王一博和樊振东粉丝持续活跃，而品牌对狼爪的收购引发一定关切",
+        "bbox": [
+            243,
+            137,
+            926,
+            168
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/0c75ac6753d5754ef55c4bed417e2404ef506ca77a51c7b753ddf5d4f45bf74c.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            243,
+            185,
+            928,
+            277
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            243,
+            333,
+            910,
+            361
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/58ef18a8b719375aae1308fa29a649df58e0a771ca22c8bb9cf215f529f14234.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            240,
+            401,
+            943,
+            618
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            238,
+            664,
+            772,
+            692
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "正面反馈",
+        "text_level": 1,
+        "bbox": [
+            527,
+            703,
+            568,
+            725
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "负面反馈 ",
+        "bbox": [
+            894,
+            696,
+            936,
+            720
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/ce086ddfa68639b84b54a19a3527dd3910ea774bad6ab84b83b8a437c90b1f65.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td></td><td>赞赏品牌 收购行动</td><td>&quot;#安踏拟2.9亿美元收购狼爪#中国安踏做大做强，没烦恼&quot; “安踏现在绝对是顶流！好多你熟悉的牌子其实都是安踏的”</td></tr><tr><td>■</td><td>明星效应</td><td>&quot;安踏王一博四周年特别配色杰特别版真的太好看啦！宝子们快冲呀” “东哥牛恭喜安踏！//安踏投的朋友圈广告被评为2024年度最受欢迎广告 top2主题为“灵龙相伴圆梦巴黎”非常牛的国民好感度&quot;</td></tr><tr><td></td><td>马赫系列 (实战性能)</td><td>“体考倒计时！这双跑鞋让我PB直接提升10秒！&quot; ”最近晨跑试了这套速干套装+马赫5跑鞋真正感受到什么叫跑得快还轻松“</td></tr></table>",
+        "bbox": [
+            239,
+            737,
+            569,
+            950
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "质疑品牌收购行动",
+        "bbox": [
+            632,
+            761,
+            673,
+            801
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "“狼爪马上就开始被炒价格了汗，安踏就这德行，收购谁，谁开始涨价炒  \n市场\"  \n“狼爪将会成又贵又不好看的品牌 ”",
+        "bbox": [
+            694,
+            748,
+            937,
+            818
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "性价比不高",
+        "text_level": 1,
+        "bbox": [
+            621,
+            885,
+            682,
+            909
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "“安踏C202心跳卖这么贵，你是疯了吧！”“心跳不值得拥有了，价格太高了#安踏C202““你安踏就安踏非要出个欧文系列，多个标就贵一倍\"“狂潮5pro情人节配色补货了，价格也是背刺了突然想到是因为贵好看还是因为本身就好看",
+        "bbox": [
+            690,
+            850,
+            937,
+            944
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "竞品4月社媒表现观察 -",
+        "text_level": 1,
+        "bbox": [
+            57,
+            48,
+            289,
+            87
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4月社媒指标概览",
+        "text_level": 1,
+        "bbox": [
+            84,
+            133,
+            172,
+            159
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "声量 监测品牌中位列#2  \n互动量 监测品牌中位列#2  \n情感表现 监测品牌中位列 #1 ↑3",
+        "bbox": [
+            47,
+            177,
+            183,
+            290
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "l XTEP 4月社媒整体表现优秀，BGC运营和PGC投放均显著发力（两者占比较3月涨幅巨大），一定程度上也带动了UGC情感表现的大幅提升",
+        "bbox": [
+            240,
+            137,
+            923,
+            166
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/9f7363cccc6c2679c8d2084cc83f64be6c1b4abb039b64c2b60e0ecab82eb532.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            238,
+            185,
+            928,
+            277
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4月营销动作总结",
+        "text_level": 1,
+        "bbox": [
+            83,
+            325,
+            172,
+            353
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "品牌活动 联合学体联于全国各地中学开展的「校园健康跑」活动贯穿整月，清北高校校跑活动赞助穿插其中，体现了品牌对青少年和大学生市场营销投入的重视",
+        "bbox": [
+            46,
+            362,
+            207,
+            509
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "赛事赞助 赞助多项全球和国内田径跑步赛事，进一步塑造品牌专业运动形象时尚秀场 国际时装周的亮相或是品牌探寻向上路径、拔高调性的一次尝试",
+        "bbox": [
+            47,
+            512,
+            206,
+            661
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "l XTEP在延续高频赛事赞助策略的同时，将线下品牌营销的视线投向青少年和大学生群体，品牌活动惠及全国各地知名中学和清北两大高校",
+        "bbox": [
+            239,
+            327,
+            897,
+            357
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/8e078f5f794064ec56a21e84b412267af42ca2541ac0eefabd64649f8b74fb82.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            239,
+            383,
+            933,
+            442
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "#1【时尚秀场】",
+        "text_level": 1,
+        "bbox": [
+            251,
+            455,
+            321,
+            479
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.3 AW25领 「速」 运动浪潮概念秀亮相中国国际时装周link",
+        "bbox": [
+            250,
+            488,
+            329,
+            564
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "#2【品牌活动】",
+        "text_level": 1,
+        "bbox": [
+            428,
+            453,
+            498,
+            479
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4月特步×学体联「校园健康跑」活动先后登陆杭州学军中学（4.10）、川师附属青台山中学（4.15）、济南稼轩学校（4.19）、东北师大附中（4.22）、长沙市长郡中学（4.25）、太原外国语学校（4.28）等link link link link",
+        "bbox": [
+            390,
+            487,
+            536,
+            644
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/b5f7fbbdd59656b8b10537d9ff5f19940d36c3c8c0dfcf70ccb468e433c9b7fb.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            330,
+            531,
+            377,
+            642
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "#3【赛事赞助】",
+        "text_level": 1,
+        "bbox": [
+            551,
+            455,
+            620,
+            477
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.18 签约成为2025年世界田联接力赛官方赛事支持商link",
+        "bbox": [
+            548,
+            488,
+            629,
+            564
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "#4【赛事赞助】",
+        "text_level": 1,
+        "bbox": [
+            648,
+            455,
+            718,
+            477
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "#5【品牌活动】",
+        "text_level": 1,
+        "bbox": [
+            746,
+            455,
+            817,
+            479
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.19 赞助全球首个 “人机共跑”马拉松，于北京亦庄圆满举办link",
+        "bbox": [
+            642,
+            488,
+            729,
+            566
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "#6【赛事赞助】",
+        "text_level": 1,
+        "bbox": [
+            845,
+            455,
+            915,
+            479
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.20 赞助的第十届清华校马开跑link4.27 赞助的第六届北大五四青春长跑开跑link",
+        "bbox": [
+            740,
+            488,
+            829,
+            592
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.26 “国家奥体杯”特步10K精英赛开跑link",
+        "bbox": [
+            840,
+            488,
+            928,
+            537
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4月消费者口碑摘要",
+        "text_level": 1,
+        "bbox": [
+            77,
+            687,
+            178,
+            712
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "l XTEP产品整体的低价高质受到普遍肯定；但其高端产品口碑出现分化，360X受好评的同时，消费者对160X的诟病较多",
+        "text_level": 1,
+        "bbox": [
+            234,
+            687,
+            818,
+            714
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "正面反馈",
+        "text_level": 1,
+        "bbox": [
+            527,
+            718,
+            567,
+            738
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "负面反馈 ",
+        "bbox": [
+            894,
+            716,
+            935,
+            738
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "正面反馈分析 xXTEP本月的正面反馈相对集中于产品端，品牌整体高性价比形象深入人心的同时，其高端产品360X也以其优良的性能，受到消费者青睐",
+        "bbox": [
+            50,
+            735,
+            217,
+            853
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "负面反馈分析 同样属于XTEP高端产品条线的160X则因其做工和异响问题受到诟病；其他产品也存在一些质量方面的负面声音",
+        "bbox": [
+            35,
+            866,
+            218,
+            983
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/e518adf0d03b20a825d4e72cc98f2c1f38376a0f0d24f912dcd19cc6b32512fe.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>■ 的赞誉</td><td colspan=\"2\">对360X</td></tr><tr><td>■</td><td>性价比高</td><td>“特步家的质量好，面料透气舒适。关键这个价格可一点也不贵”</td></tr><tr><td></td><td>明星同款</td><td>&quot;专业竞速性能没话说，回弹提速都超棒，跑步的时候能明显感觉助力满满 “啊啊啊这个颜色好看，买起来#王鹤棣特步品牌代言人#[打call]&quot; “专业竞速性能没话说，回弹提速都超棒，跑步的时候能明显感觉助力满满</td></tr></table>",
+        "bbox": [
+            238,
+            746,
+            571,
+            961
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/7ec64acba0718d0b66ccdccbf35dd2abc28d9c80ce5a948da0ee6289e5da4dcd.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td colspan=\"2\">&quot;特步160x3.0pro补货后都是减配版</td></tr><tr><td>对160X 的质疑 (异响、做工)</td><td>“穿的次数一只手都能数过来结果就跑了一会步脚下便传来了嘎吱声&quot; “特步你让我太失望了1个礼拜前掌碳板异响#160X&quot; &quot;特步160X5.0Pro有多坑？这是一个后掌跑者穿着160X5.0Pro的血泪史&quot; &quot;第一次11.10号购买20多天大面积开胶（不是每天穿只是偶尔穿）12.7 号换了双新的到现在又又又开胶！而且换货回来天冷就没怎么穿了&quot;</td></tr><tr><td>品质不佳</td><td>&quot;特步160x3.0鞋面直接干裂了，比赛刚开跑两公里干裂了&quot; &quot;鞋子开裂是因为买了双偷工减料的特步鞋子&quot;</td></tr></table>",
+        "bbox": [
+            611,
+            744,
+            941,
+            968
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4月社媒指标概览",
+        "text_level": 1,
+        "bbox": [
+            83,
+            133,
+            173,
+            159
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "声量 监测品牌中位列#4 ↑1 互动量 监测品牌中位列#3 情感表现 监测品牌中位列#2 ",
+        "bbox": [
+            46,
+            177,
+            172,
+            292
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/b6122ba1fef67d22789270c556bf8305e0142bdd27d1aa50eb953d4eff06c4bc.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            30,
+            331,
+            52,
+            368
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4月营销动作总结",
+        "text_level": 1,
+        "bbox": [
+            82,
+            335,
+            172,
+            364
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "产品推广 与田曦薇合作， 以 “一周七天多变型录”为主题，传播471新配色的活力感和风格多样性，收获大量互动关注；同时于4月下旬的oleh-Oleh快闪市集中再度选择471为活动主题 强化爆款记忆",
+        "bbox": [
+            46,
+            379,
+            227,
+            527
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "赛事赞助 赞助2025 NB10K成都站和淮安马拉松，两项赛事的线上传播热度较为一般",
+        "bbox": [
+            46,
+            561,
+            222,
+            618
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "l NEW BALANCE 4月社媒整体表现良好，受益于明星效应在产品传播中的充分利用，互动量有一定提升；同时，其BGC运营表现也较上月略显活跃l NEW BALANCE发力其核心产品471的传播，借助田曦薇的明星效应和快闪活动吸足流量和关注度；然而，本月两项跑步赛事的赞助社媒反响平淡",
+        "bbox": [
+            242,
+            137,
+            920,
+            166
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/1b87dac5f74113a382893fccb88bf25f2f77055893148ee2863529a544f668f9.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            244,
+            185,
+            925,
+            279
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            242,
+            338,
+            930,
+            370
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/8708c00ad71b0c7dd8eb8b2c677325bbd5f59e40476b388f13a4a14b84103a8b.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            240,
+            388,
+            944,
+            614
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4月消费者口碑摘要",
+        "text_level": 1,
+        "bbox": [
+            76,
+            651,
+            179,
+            679
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "l NEW BALANCE产品舒适性继受到消费者首肯的同时，NB 471 $\\pmb { \\times }$ 田曦薇的成功营销使该款产品的高颜值深入人心；负面反馈主要聚焦于假货泛滥",
+        "text_level": 1,
+        "bbox": [
+            235,
+            655,
+            930,
+            687
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "正面反馈",
+        "text_level": 1,
+        "bbox": [
+            527,
+            700,
+            568,
+            722
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "负面反馈 ",
+        "text_level": 1,
+        "bbox": [
+            894,
+            700,
+            935,
+            722
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "正面反馈分析 NEW BALANCE对471的明星营销（田曦薇）带动了女性消费者对该款产品高颜值的关注；其他产品条线中，舒适性表现也受到普遍肯定",
+        "bbox": [
+            51,
+            703,
+            217,
+            822
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "负面反馈分析 NEW BALANCE负面反馈主要围绕假货问题，假货的严重泛滥一定程度上已影响到消费者的购买决策",
+        "bbox": [
+            37,
+            838,
+            218,
+            927
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "NB 471 外观靓丽 ",
+        "text_level": 1,
+        "bbox": [
+            259,
+            766,
+            301,
+            807
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "舒适性佳 ",
+        "text_level": 1,
+        "bbox": [
+            259,
+            881,
+            301,
+            903
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "\"nb审美在线的哦，太会拿捏少女心了一整个爱住了！整活还待是你#复古运动鞋# #Nb47 #”\"Miu风十足的Nb471想不到这双NewBalance也是Miu里Miu气啊”“471的每一个颜色都好好看 像春天又像夏天 糖果的颜色啊”",
+        "bbox": [
+            321,
+            742,
+            548,
+            837
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "“新百伦网面鞋，上脚就是行走的空调，而且没有负重感”\"一脚蹬懒人鞋30秒出门，舒服的想焊死在脚上通勤，健身宝藏鞋！\"#NB860系列慢跑鞋巨经典脚感也很舒服轻便透气”",
+        "bbox": [
+            327,
+            866,
+            544,
+            937
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "假货泛滥",
+        "bbox": [
+            632,
+            788,
+            672,
+            812
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "\"图中Newbalance1906为fake宝子们注意甄别，避免被坑！！！\"“寻亲直播卖假货。#谢浩男#谢浩男妈妈新百伦NewBalance这个品牌的商标就一个N，为什么N中间有一个p，很明显假货，还有一群粉丝吹捧\"\"买了一双new balance327，本来很高兴地拆了快递，却发现鞋子侧边的logo是歪的，且侧面粘有胶水的痕迹，疑似变成买到假货的倒霉蛋\"“被气笑了都 买之前觉得可能不是真货 但是收到不知道那么假”",
+        "bbox": [
+            692,
+            742,
+            940,
+            881
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "产地差异 ",
+        "text_level": 1,
+        "bbox": [
+            633,
+            912,
+            675,
+            935
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "\"NB990新百伦不是说国产舍不得用真碳板，而是你的预算太低，所以人家只能混发你\"",
+        "bbox": [
+            693,
+            903,
+            936,
+            946
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "竞品4月社媒表现观察 -",
+        "text_level": 1,
+        "bbox": [
+            58,
+            48,
+            283,
+            87
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4月社媒指标概览",
+        "text_level": 1,
+        "bbox": [
+            84,
+            133,
+            172,
+            159
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/d7247a514df791f1e0b8bb8a1bdfc5fe97a10e4bb793d112c3bcda47846f431f.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            46,
+            172,
+            181,
+            292
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/0ca4c761d6e3f408c17138ff186f369e8ff15a077320ed5aba2630964eb3cc4b.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            30,
+            327,
+            52,
+            366
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4月营销动作总结",
+        "text_level": 1,
+        "bbox": [
+            82,
+            333,
+            172,
+            361
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "体育资产 游泳运动员汪顺的粉丝号召力使其签约成为本月的最大营销亮点(应关注到HOKA签约的运动员高亭宇、常园、汪顺均非田径、跑步赛道，品牌在体育资产布局上较为特别)",
+        "bbox": [
+            50,
+            383,
+            220,
+            485
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "新品发布 核心产品条线CLIFTON重磅更新，相比竞品其传播口径上更多聚焦穿着和运动的实际体验，强调\"跑感正正好",
+        "bbox": [
+            50,
+            514,
+            221,
+            601
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "l HOKA 4月社媒整体表现提升，各指标排名趋近中游；本月UGC讨论占比上升，主要来自对其签约体育明星的讨论l HOKA签约游泳名将汪顺的行动大幅提振了品牌线上热度，对核心产品CLIFTON换代的传播也乘势收获了一定关注",
+        "bbox": [
+            238,
+            137,
+            791,
+            166
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/1b9206ea7f54a6f958840d55a2efa67d2a2e6204b820a37e4a3c4a1712c81a0c.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            241,
+            185,
+            934,
+            277
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            237,
+            337,
+            766,
+            366
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/41291cae20355e6ff57ce30659076e0ea00243faad8cb07078f567a18df18ff2.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            239,
+            375,
+            941,
+            605
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4月消费者口碑摘要",
+        "text_level": 1,
+        "bbox": [
+            77,
+            638,
+            178,
+            666
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "l HOKA品牌大使的官宣引发消费者讨论，产品性能收获更多正面反馈，而质量问题受到一些消费者吐槽",
+        "bbox": [
+            236,
+            642,
+            741,
+            672
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "正面反馈",
+        "text_level": 1,
+        "bbox": [
+            527,
+            679,
+            568,
+            703
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "负面反馈 ",
+        "bbox": [
+            894,
+            679,
+            936,
+            703
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "正面反馈分析 HOKA本月官宣品牌大使借助明星效应提升品牌影响力；同时，其核心产品的缓震性能得到消费者肯定",
+        "bbox": [
+            47,
+            701,
+            214,
+            790
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "负面反馈分析 HOKA的品牌大使宣传也出现了一些不和谐声音，部分汪顺粉丝攻击了宣传造型及摄影风格；产品端，质量相关的脱胶、爆裂问题被消费者指出一定程度上影响了消费者信任度",
+        "bbox": [
+            32,
+            803,
+            218,
+            953
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/3d77b76c272c55b64b4276bb6393c498aa8586c6d6d775d3f3396b21c00e5374.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=\"6\">□</td><td rowspan=\"5\">明星效应</td><td>“因为汪顺买的hoka到啦爱你[爱你宣了之后就想买一直太忙。好喜欢这</td></tr><tr><td>个颜色[憧憬唯一遗憾：冠军赛去不了一点儿苦涩[苦&quot;</td></tr><tr><td>&quot;hoka很舒服，很轻而且支撑力好，偶们汪顺的分享还是很值得平足参考 的&quot;</td></tr><tr><td>&quot;跟着@汪顺Steve没买错，好看好穿的@HOKA克利夫顿10和二代潮溪鞋#正</td></tr><tr><td>正好就是更好#“ &quot;家人们！HOKA踩感谁懂啊！！软弹到像踩云朵膝盖不累这波血赚？跑步</td></tr><tr><td rowspan=\"4\">□</td><td>缓震性能好</td><td>能常瘦来HOKA，正正好！&quot;</td></tr><tr><td></td><td>&quot;第一次上脚CLIFTON10！果然像大家说的真的很弹，10公里跑完，整个过程</td></tr><tr><td></td><td>没有衰减；支撑性稳定也还可以！&quot;</td></tr><tr><td></td><td></td></tr></table>",
+        "bbox": [
+            240,
+            711,
+            567,
+            944
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/e699f523b910caa8e94a99fea9e262b405fa414d8501634844a303e16b360e56.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=\"3\">□ 明星负面 (批评造型和摄影)</td><td>&quot;hoka请避雷这位美术指导”</td></tr><tr><td>&quot;HOKA怎么把汪顺拍成普男了[悲伤&quot;</td></tr><tr><td>&quot;Hoka摄影师跟他有仇吧，怎么可以这么打光，角度刁钻奇怒&quot;</td></tr><tr><td rowspan=\"5\">■ 质量问题</td><td>“你們的Speed loafer有爆邊情況出現嗎？我的只穿了一次兩邊的反光骨位就</td></tr><tr><td>有爆裂情況出現。#Hoka##福樂鞋# #hoka#speed loaferocr:W元&quot;</td></tr><tr><td>“前几天刚美美发了一篇赞美hoka飞马4多么美丽的红薯，今天就给我整这出</td></tr><tr><td>[失望R][失望R][I失望RJ[I失望R]质量差的离谱…我也没去什么高难度地方，一</td></tr><tr><td>个小小娘娘顶就给我走脱胶了。”</td></tr></table>",
+        "bbox": [
+            612,
+            709,
+            940,
+            946
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "竞品4月社媒表现观察 -",
+        "text_level": 1,
+        "bbox": [
+            56,
+            48,
+            310,
+            87
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4月社媒指标概览",
+        "text_level": 1,
+        "bbox": [
+            83,
+            135,
+            172,
+            162
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "↓1声量 监测品牌中位列#6↓1互动量 监测品牌中位列 #6↓1情感表现 监测品牌中位列 #7",
+        "bbox": [
+            46,
+            175,
+            183,
+            290
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "l SAUCONY 4月社媒整体表现较弱，各项指标排名下滑；值得关注的是，其B/PGC的占比正逐月提升，显示了品牌持续精耕社媒运营与投放的决心",
+        "bbox": [
+            241,
+            135,
+            939,
+            164
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/6ad80a0865f59f210ab01fd2d88e233a1716264cce9a56194f5d22d2b4207f88.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            243,
+            185,
+            939,
+            277
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/ee8d39a40496716ce04266ee2b8a1217ff60d12639893101010e04bd12229d08.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            30,
+            322,
+            52,
+            357
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4月营销动作总结",
+        "text_level": 1,
+        "bbox": [
+            83,
+            325,
+            172,
+            353
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "新品发布 相继发布面向资深运动女性的「她」系列服饰，面向高净值人群的SILO系列以及Nathan Bell联名艺术家系列，扩充产品矩阵的同时兼顾了细分群体需求",
+        "bbox": [
+            46,
+            364,
+            213,
+            507
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "社群活动 在官方社群运营的同时 与跨界品牌会员或各地运动社群合作（如武汉的SRC），持续开展带有城市元素的线下活动",
+        "bbox": [
+            47,
+            514,
+            212,
+            629
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "l SAUCONY延续社群与新品双核营销：社群活动进一步系统化、常规化，而产品推新主打细分人群，拓展更多受众",
+        "bbox": [
+            236,
+            333,
+            777,
+            359
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/1fd5a2bf36d47338be3b67df98f159062638258fa7526b385ebbb1c942b83cff.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            236,
+            366,
+            952,
+            590
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4月消费者口碑摘要",
+        "text_level": 1,
+        "bbox": [
+            76,
+            651,
+            179,
+            679
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "l SAUCONY的正面讨论集中在社群活动体验和产品外观，而磨脚和性能不足的问题也正受到消费者关注",
+        "text_level": 1,
+        "bbox": [
+            238,
+            655,
+            735,
+            685
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "正面反馈",
+        "text_level": 1,
+        "bbox": [
+            527,
+            694,
+            567,
+            714
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "负面反馈 ",
+        "text_level": 1,
+        "bbox": [
+            894,
+            692,
+            935,
+            714
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/0ed76fd0d502ebf364e445bfb48461358d53e87a2945b3f07e36fb6a5d409e1b.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            31,
+            720,
+            45,
+            746
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "正面口碑分析 SAUCONY本月多项社群活动持续吸引消费者参与，并得到不错的反馈；同时，一些新品/联名产品的外观也受到青睐，激发了消费热情",
+        "bbox": [
+            47,
+            718,
+            217,
+            837
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "负面口碑分析 SAUCONY本月负面反馈主要围绕穿着体验与性能问题：磨脚的不适体验以及产品的支撑性、弹性不足",
+        "bbox": [
+            34,
+            851,
+            216,
+            942
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "\"索康尼跑步训练营装备到啦！所谓兵马未动粮草先行索康尼的全套装备已收到好看开森期待开营呀！#索康尼跑步训练营#跑懂每座城#Saucony索康  \n社群活动 尼#索康尼啡速4#一起跑过就是我们\"  \n体验好 “周末带小狗来[HOUSEOFSAUCONY」玩的好开心#凡几市集##SauCOny索康尼#上海#“\"火鸟4上新啦！颜值超好看！#跑鞋推荐#好鞋推荐#新鞋到了#马拉松跑鞋#索康尼火鸟4\"  \n外观好看 \"索康尼和AETIPS最新联名的鞋也太好看了，在这双复古跑上将7种颜色融入进去，丰富但不杂乱。鞋子上随处可见的六色花，充满了多巴胺的童趣。最有意思的还是鞋后跟的slogan:\"ILOVEU,BUTI'MBUSY\"。",
+        "bbox": [
+            239,
+            718,
+            571,
+            950
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/2d2419597b746e31b7a4110562a5c745bf4543f0696c3bde35f4c1b971a8d401.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=\"2\">■穿着体验差</td><td rowspan=\"2\"></td><td>&quot;啡速3居然磨脚后跟冬天入的，一直穿长袜子跑今天换了船袜，坚持跑</td></tr><tr><td>完，才发现都出血了{汗 亍。以后都穿长袜子。夏天也穿。 &quot;索康尼的鞋跟我八字不合，买过两双，试穿的时候脚踝处都有点磨脚</td></tr><tr><td rowspan=\"3\"></td><td></td><td>[哼&quot;</td></tr><tr><td>性能问题</td><td>“索康尼菲速3，再次确认实在是跑的难受，不但没有推进力还泻力，5 公里都要歇两次感...</td></tr><tr><td></td><td>&quot;索康尼不够弹铁三#跑步”</td></tr></table>",
+        "bbox": [
+            611,
+            722,
+            941,
+            938
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "竞品4月社媒表现观察 -",
+        "text_level": 1,
+        "bbox": [
+            58,
+            46,
+            245,
+            87
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4月社媒指标概览",
+        "text_level": 1,
+        "bbox": [
+            83,
+            135,
+            173,
+            162
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "l On昂跑 4月社媒整体表现不佳, 声量和互动量均垫底；抖音和小红书上对社群活动的积极反馈依然是其UGC的主要亮点",
+        "bbox": [
+            238,
+            135,
+            822,
+            166
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "声量 监测品牌中位列#7↓1互动量 监测品牌中位列 #7情感表现 监测品牌中位列 #6 ↓1",
+        "bbox": [
+            46,
+            179,
+            182,
+            292
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "声量8.7K",
+        "bbox": [
+            293,
+            201,
+            326,
+            261
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "互动量 303.2K 情感表现 85.2 ",
+        "bbox": [
+            439,
+            201,
+            487,
+            261
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            597,
+            203,
+            634,
+            261
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/97bc534f77f40c86a97218f35b71ec729c7cada8f03726897f3ee0760d02af95.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            713,
+            190,
+            926,
+            275
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4月营销动作总结",
+        "text_level": 1,
+        "bbox": [
+            82,
+            337,
+            172,
+            366
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "l On昂跑积极拓展线下渠道，布局武汉和成都两大新一线城市的核心商圈；合作赞达亚推出的商业短片制作精良，引发KOL的关注和传播",
+        "bbox": [
+            238,
+            342,
+            897,
+            372
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "新店开业 于武汉 成都两地布局核心商圈，首家旗舰店落户成都太古里，拓展线下销售渠道的同时，提升了品牌影响力",
+        "bbox": [
+            46,
+            398,
+            221,
+            487
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "商业短片 月中发布以赞达亚为主角的商业短片《2025太空漫跑》，在国内社媒反响平平",
+        "bbox": [
+            46,
+            516,
+            220,
+            603
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "#1【新店开业】",
+        "text_level": 1,
+        "bbox": [
+            271,
+            446,
+            341,
+            472
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "#2【商业短片】",
+        "text_level": 1,
+        "bbox": [
+            402,
+            448,
+            471,
+            470
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "#3【新品发布】",
+        "text_level": 1,
+        "bbox": [
+            613,
+            448,
+            682,
+            470
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "#4【新店开业】",
+        "text_level": 1,
+        "bbox": [
+            746,
+            446,
+            815,
+            470
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4.3 武商Mall昂跑店2.0盛大开业link",
+        "bbox": [
+            260,
+            481,
+            355,
+            529
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4.15 携手全球合作伙伴赞达亚·科尔曼，推出科幻短片《Zone Dreamers:2025 太空漫跑》 link",
+        "bbox": [
+            391,
+            481,
+            486,
+            583
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/929d014f0a933d2f0fcd0815ea8551dbb9329200ac4900dba5a3bc3d307d1725.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            497,
+            461,
+            579,
+            609
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4.24 合作atmos推出联名款Cloudmonster Void, YOZAKURA（夜樱）link",
+        "bbox": [
+            594,
+            481,
+            707,
+            559
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4.26成都太古里首家旗舰店正式开业link",
+        "bbox": [
+            736,
+            481,
+            829,
+            529
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/f6cf12d7c0c24dadbb880f86ba36efa212fd6e3e6379977d144a321c097463d9.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            833,
+            466,
+            939,
+            607
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4月消费者口碑摘要",
+        "text_level": 1,
+        "bbox": [
+            77,
+            651,
+            179,
+            679
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "l On昂跑本月消费者在抖音话题#跟着昂跑一起跑下积极分享运动生活，产品外观不好看与销售/售后服务问题是主要负面反馈点",
+        "text_level": 1,
+        "bbox": [
+            239,
+            655,
+            843,
+            687
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "正面反馈",
+        "text_level": 1,
+        "bbox": [
+            527,
+            700,
+            567,
+            722
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "负面反馈 ",
+        "text_level": 1,
+        "bbox": [
+            894,
+            700,
+            935,
+            722
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "正面口碑分析抖音用户在品牌话题下自发分享运动生活，同时产品的舒适性体验得到较多消费者认同",
+        "bbox": [
+            46,
+            729,
+            205,
+            818
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "品牌话题下 生活分享 ",
+        "text_level": 1,
+        "bbox": [
+            258,
+            761,
+            307,
+            801
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "“跳完操第一次4人约跑步打卡体育中心5公理，运动让我们健康快乐！#跟着昂跑一起跑#一直跑跑跑跑下去#爱拍照爱生活“新朋友总需要磨合和适应，铁岭甸子赛北京，名不虚传呀#跟着昂跑一起跑",
+        "bbox": [
+            318,
+            744,
+            568,
+            814
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "外观不喜",
+        "bbox": [
+            632,
+            766,
+            672,
+            788
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "\"昂跑早两年刚入国内市场时候大多数鞋发售价是接近八百的，当时还比较纳闷，这价格，这外观也不咋的，看了好多次也入不了手，现在涨价这么多还销量这么高？",
+        "bbox": [
+            695,
+            764,
+            934,
+            835
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "$\\mathbb { Q }$ 负面反馈分析部分消费者对于On昂跑的独特外观设计接受度较低，同时品牌的销售与售后服务也存在一定不足",
+        "bbox": [
+            31,
+            842,
+            216,
+            933
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "\"昂跑真的很丑啊允悲\" ",
+        "text_level": 1,
+        "bbox": [
+            702,
+            737,
+            781,
+            755
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "适度性佳 ",
+        "bbox": [
+            259,
+            875,
+            301,
+            900
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "\"今天上脚昂跑的cloudmonster一代。纯黑的配色加上特殊的鞋底设计非常nice 。 鞋底非常柔软,训练和日常通勤都无压力， 有时候甚至穿正装配这双鞋[捂脸R][捂脸R] ”“这次试了On惊艳到了[两颗心R]除了不耐脏没毛病呀！！包裹性很好很舒服#跟着昂跑一起跑# #运动鞋推荐# #爬山# #跑步鞋”",
+        "bbox": [
+            316,
+            833,
+            567,
+            950
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "销售售后服务",
+        "text_level": 1,
+        "bbox": [
+            631,
+            877,
+            673,
+            920
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "\"昂跑的销售真的很拉整个品牌一家店可能是我的运气问题三家店就是你品牌的问题！实名diss skp店铺！大写离谱！\"“一千二买双鞋只能穿半天， 出现明显变形找售后， 推三阻四不给答复， 气死人不偿命。",
+        "bbox": [
+            695,
+            859,
+            940,
+            951
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "PART II ",
+        "text_level": 1,
+        "bbox": [
+            42,
+            420,
+            209,
+            503
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "APR-25 社媒竞争态势与平台分布",
+        "bbox": [
+            40,
+            535,
+            525,
+            611
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4月ANTA和XTEP在声量上继续保持领先的同时，前者凭借林孝埈的签约、王一博合作四周年的宣发撬动了大量互动；ASICS借助官宣代言人余热，顺势推出线下展览活动，本月声量份额表现不错但互动份额相对一般；其他品牌中，NEW BALANCE与田曦薇、HOKA与汪顺的合作也激起一定涟漪",
+        "text_level": 1,
+        "bbox": [
+            53,
+            31,
+            880,
+            142
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/d0a21f96bbe823b7af222b165b920797289c56fcaf72b0aa4ae8ac233780d15c.jpg",
+        "image_caption": [
+            "品牌月度声量与份额 "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            66,
+            203,
+            239,
+            503
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/218283593687101637ee81ffbc92ff41d278d35d1ecba2b9d79decba0f5ab26a.jpg",
+        "image_caption": [
+            "Buzz Trend "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            336,
+            205,
+            947,
+            596
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "table",
+        "img_path": "images/ba4fad1cdff4c7baa82152ddd54f82a49730217da5b4c1c3a30073491fdc2b12.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=1 colspan=1>品牌</td><td rowspan=1 colspan=1>ANTA</td><td rowspan=1 colspan=1>XTEP</td><td rowspan=1 colspan=1>ASICS</td><td rowspan=1 colspan=1>NEWBALANCE</td><td rowspan=1 colspan=1>HOKA</td><td rowspan=1 colspan=1>SAUCONY</td><td rowspan=1 colspan=1>ON昂跑</td></tr><tr><td rowspan=1 colspan=1>BUZZ</td><td rowspan=1 colspan=1>273.6K</td><td rowspan=1 colspan=1>228.1K</td><td rowspan=1 colspan=1>153.9K</td><td rowspan=1 colspan=1>58.7K</td><td rowspan=1 colspan=1>16.6K</td><td rowspan=1 colspan=1>10.7K</td><td rowspan=1 colspan=1>8.7K</td></tr></table>",
+        "bbox": [
+            20,
+            514,
+            311,
+            570
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/d547b06fba24a4307f4d85b2dc7ea65cc0e48f2e21c9cb90d92aaf542bd285a9.jpg",
+        "image_caption": [
+            "品牌月度互动量与份额 "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            97,
+            635,
+            237,
+            925
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/a43ef1a8860a58f6495f15f371fd07f5b3accfed0b440320636c934ef0b00c95.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            352,
+            642,
+            388,
+            716
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/7827c35c17b6c64212d2aa141b8c8492cb2c00fb9e0cff40bc5d9f22aab3ee3a.jpg",
+        "image_caption": [
+            "去除ANTA、XTEP后其余品牌的趋势放大"
+        ],
+        "image_footnote": [],
+        "bbox": [
+            422,
+            650,
+            934,
+            990
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "table",
+        "img_path": "images/ef2ad982830d2617cc31563666691f7899d178e5890243e54a9e512951c63340.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=1 colspan=1>品牌</td><td rowspan=1 colspan=1>ANTA</td><td rowspan=1 colspan=1>XTEP</td><td rowspan=1 colspan=1>ASICS</td><td rowspan=1 colspan=1>NEWBALANCE</td><td rowspan=1 colspan=1>HOKA</td><td rowspan=1 colspan=1>SAUCONY</td><td rowspan=1 colspan=1>ON昂跑</td></tr><tr><td rowspan=1 colspan=1>BUZZ</td><td rowspan=1 colspan=1>12.7M</td><td rowspan=1 colspan=1>4.5M</td><td rowspan=1 colspan=1>1.3M</td><td rowspan=1 colspan=1>1.4M</td><td rowspan=1 colspan=1>557K</td><td rowspan=1 colspan=1>348K</td><td rowspan=1 colspan=1>303K</td></tr></table>",
+        "bbox": [
+            20,
+            933,
+            311,
+            990
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "整体上看，4月行业声量高度集中于微博、抖音、小红书三大主阵地(95%) ；品牌间平台分布差异显著，头部三甲ANTA、XTEP和ASICS微博居主导地位（主要由明星驱动） ，且前两者因短视频电商的火热在抖音平台的分布大幅高于小红书；NEW BALANCE及二梯队品牌的声量则进一步向小红书倾斜，半数至7成声量分布于此",
+        "text_level": 1,
+        "bbox": [
+            56,
+            31,
+            883,
+            144
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/5bfc99dcadf8cd0a7d8f0cda8311b7fcbe92c183ec4cfa0a6c0a01c0fa1ae6d9.jpg",
+        "image_caption": [
+            "行业整体声量平台分布"
+        ],
+        "image_footnote": [],
+        "bbox": [
+            79,
+            285,
+            304,
+            687
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/2f43d7cf1a0855dfc378bf8999b6e6ee30fa3df312ab129d8da174809f231919.jpg",
+        "image_caption": [
+            "各品牌声量平台分布"
+        ],
+        "image_footnote": [],
+        "bbox": [
+            339,
+            246,
+            927,
+            872
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "table",
+        "img_path": "images/0a68542f1b415d2f71598a2ed85918e1b13766aae73639f5e41385e708e0f54d.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=1 colspan=1>平台</td><td rowspan=1 colspan=1>WEIBO</td><td rowspan=1 colspan=1>DOUYIN</td><td rowspan=1 colspan=1>RED</td><td rowspan=1 colspan=1>WECHAT</td><td rowspan=1 colspan=1>BILIBILI</td></tr><tr><td rowspan=1 colspan=1>总声量</td><td rowspan=1 colspan=1>470K</td><td rowspan=1 colspan=1>120K</td><td rowspan=1 colspan=1>121K</td><td rowspan=1 colspan=1>37.0K</td><td rowspan=1 colspan=1>2.4K</td></tr></table>",
+        "bbox": [
+            34,
+            707,
+            311,
+            770
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "小红书TOP品牌 #话题标签 观察：NEW BALANCE凭借与田曦薇合作推广471在小红书强势出圈，同时其产品讨论与“复古”风格深度绑定，体现了强消费心智渗透；HOKA传递的message“正正好就是更好” 颇为响亮（代言人合作、新品CLIFTON推广和讨论中均广泛露出）；SAUCONY和On昂跑的各类社群活动维持高热度的同时，“跟着昂跑一起跑”话题下消费者自发的运动生活分享活跃",
+        "text_level": 1,
+        "bbox": [
+            43,
+            31,
+            884,
+            133
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "BUZZ NEW BALANCE TOP #HASHTAG ",
+        "text_level": 1,
+        "bbox": [
+            100,
+            168,
+            346,
+            196
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/e17850668b692dc4186498007f93cb2a9e3c2227a8d440a2d212807371b536db.jpg",
+        "image_caption": [
+            "54.4% 小红书声量占比 $\\bf { 3 1 / \\times + }$ 声量"
+        ],
+        "image_footnote": [],
+        "bbox": [
+            19,
+            285,
+            194,
+            953
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "NB 471 ",
+        "text_level": 1,
+        "bbox": [
+            216,
+            287,
+            252,
+            305
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/46e2d801df0bbaf3f4163327e59fe4ebc6623869c355b56102b178fb7724d740.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            216,
+            318,
+            425,
+            474
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "复古风 ",
+        "text_level": 1,
+        "bbox": [
+            216,
+            503,
+            253,
+            529
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/bbaa06f3bbd37b656025cf4f168bb87b9612a46b0bbd3339d02211a655ee7ba2.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            216,
+            535,
+            426,
+            687
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "\"今天脚上的是new\"NewBalance新款 \"NB MT100鞋底藏balance 740 镁光银 MT10O一眼种草,复 着Vibram橡胶就喜欢这种复古休 古网布鞋面搭配细绳 小复古的机能色闲又百搭的感觉 绑带，芭蕾美学拿捏”呀\\~\"",
+        "bbox": [
+            216,
+            701,
+            428,
+            794
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/2a128a22340937abcd85e63594e73ed1cac49a13c311dadb5a48a12f7ace63d1.jpg",
+        "image_caption": [
+            ""
+        ],
+        "image_footnote": [],
+        "bbox": [
+            502,
+            174,
+            996,
+            975
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "2025 YTD声量趋势：整体上XTEP、ANTA始终处于领先位置，XTEP、ASICS 3月起受明星和活动影响，大幅上升；第二梯队中，NEW BALANCE声量持续波动上升且领先于其他品牌，HOKA、SAUCONY、On昂跑整体相对平稳",
+        "text_level": 1,
+        "bbox": [
+            52,
+            31,
+            865,
+            109
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "image",
+        "img_path": "images/da7ed124047a8cebb89ad785d67ee19ea185e8fa13e6476b47223e149f174781.jpg",
+        "image_caption": [
+            "Buzz Trend (1.1-4.24) ",
+            "去除ASICS 、 XTEP 、ANTA后其余品牌的趋势放大"
+        ],
+        "image_footnote": [],
+        "bbox": [
+            60,
+            201,
+            929,
+            598
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "image",
+        "img_path": "images/86ddd737ff100e6d53716a3e7e431a75c0e4dea843f531cadc9b61bad778c540.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            89,
+            598,
+            128,
+            681
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "image",
+        "img_path": "images/988c092fe3f4c23e38b4455d5d2b1fb42ec1cf7ebc58a7dbcd8a595d767e35d3.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            196,
+            646,
+            933,
+            977
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "2025 YTD互动量趋势：ANTA的日常互动量以较大幅度领先于其他品牌；ASICS官宣品牌大使斩获单日互动量第一，ANTA官宣代言人林孝埈也为品牌带来了较高讨论度；第二梯队中，NEW BALANCE 4月携手田曦薇互动表现优秀，其他品牌整体趋势相对稳定",
+        "text_level": 1,
+        "bbox": [
+            53,
+            31,
+            884,
+            142
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "image",
+        "img_path": "images/dc942b36ff1470d28a7f460cbd37ea73e135f35062ffa80cdf26fcd44c8ae277.jpg",
+        "image_caption": [
+            "Engagement Trend (1.1-4.24) ",
+            "去除XTEP 、ANTA、ASICS后其余品牌的趋势放大"
+        ],
+        "image_footnote": [],
+        "bbox": [
+            57,
+            201,
+            952,
+            598
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "image",
+        "img_path": "images/6501d953b03a1c5c91e29973f36b17ece158a92cf4caced6cfdabd72f4edf603.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            89,
+            600,
+            128,
+            681
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "\\*为更好展示整体趋势，TOP1互动量高点已做特殊处理",
+        "bbox": [
+            744,
+            605,
+            897,
+            624
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "image",
+        "img_path": "images/7de6440570253d194537952a6223fe16b76d0cca184ce48a584dab612e875595.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            193,
+            644,
+            933,
+            979
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "PART III ",
+        "text_level": 1,
+        "bbox": [
+            43,
+            420,
+            225,
+            503
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "4月各品牌声量类型(B/P/UGC)分布：SAUCONY持续精耕官方账号，8%的BGC分布一枝独秀；On昂跑(15%)、NEWBALANCE(14%)则在PGC占比上更胜一筹；ANTA、ASICS、HOKA的高UGC占比主要受流量明星驱动，而XTEP、 NEWBALANCE 、SAUCONY、On昂跑的UGC则更多聚焦产品和品牌活动，与品牌相关度相对更高",
+        "bbox": [
+            57,
+            31,
+            882,
+            144
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "image",
+        "img_path": "images/9e31909f3844aae4c289e96aed127f4eaddd83f9efb07bca5a75fdc884578454.jpg",
+        "image_caption": [
+            "各品牌B/P/UGC分布"
+        ],
+        "image_footnote": [],
+        "bbox": [
+            122,
+            218,
+            823,
+            885
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "4月BGC声量和互动量平台分布：大多数品牌的抖音高占比来自于官旗的产品推广与优惠促销；SAUCONY尽管BGC声量紧随ANTA、XTEP之后，但未能形成与之相匹配的互动表现；尽管声量基数相对低，但HOKA在抖音和小红书的宣发数据亮眼（帖均互动均位列第一）；此外，On昂跑在抖音的表现也可圈可点，互动量提升明显",
+        "bbox": [
+            58,
+            11,
+            876,
+            124
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "image",
+        "img_path": "images/bcf988f1c413c545a644b6a703f30f9a502c5f2fb05ccf80e826a4d54115a22b.jpg",
+        "image_caption": [
+            "BGC声量平台分布"
+        ],
+        "image_footnote": [],
+        "bbox": [
+            52,
+            229,
+            465,
+            827
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "image",
+        "img_path": "images/bff7ef6532d2be92ab73b86d2d44e080e250c96dcb1fea17265a493481d4bcc0.jpg",
+        "image_caption": [
+            "BGC互动量平台分布"
+        ],
+        "image_footnote": [],
+        "bbox": [
+            528,
+            233,
+            940,
+            833
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "4月抖音平台多数品牌BGC仍以产品推广和优惠促销类广告帖为主，呈现高声量、低互动的特征；HOKA相对匠心独具，重点传播多领域运动员的合作，强调“自我突破”精神，与品牌理念形成共鸣，互动表现较好；On昂跑熟谙创意短片的内容形式，既有全球一线明星的大制作，又有多位跑者故事的生动讲述为太古里旗舰店启幕造势",
+        "text_level": 1,
+        "bbox": [
+            57,
+            11,
+            875,
+            124
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "image",
+        "img_path": "images/3d0eb2251118e06051975568a2e6c588b6f22cfe3e99bbcf6ddcfa544a50700f.jpg",
+        "image_caption": [
+            "抖音平台各品牌BGC表现"
+        ],
+        "image_footnote": [],
+        "bbox": [
+            21,
+            237,
+            405,
+            679
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "table",
+        "img_path": "images/f6ba7b217cc8eda3220ea2ae2f6ce169c7c6ba2c82237a82efe15d16f491283a.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>+0.1M</td><td>+0.7M</td><td>+12K</td></tr></table>",
+        "bbox": [
+            94,
+            718,
+            225,
+            738
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "table",
+        "img_path": "images/8a4347cc18a7277fdc93e671e4c8085444684aeb72eaac363f6ba9e241415937.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=1 colspan=1>品牌</td><td rowspan=1 colspan=1>ANTA</td><td rowspan=1 colspan=1>XTEP</td><td rowspan=1 colspan=1>SAUCONY</td><td rowspan=1 colspan=1>ASIcs</td><td rowspan=1 colspan=1>NEWBALANCE</td><td rowspan=1 colspan=1>HOKA</td><td rowspan=1 colspan=1>ON昂跑</td></tr><tr><td rowspan=1 colspan=1>抖音主账号粉丝数</td><td rowspan=1 colspan=1>6.3M</td><td rowspan=1 colspan=1>1.7M</td><td rowspan=1 colspan=1>479K</td><td rowspan=1 colspan=1>14K</td><td rowspan=1 colspan=1>91K</td><td rowspan=1 colspan=1>21K</td><td rowspan=1 colspan=1>54K</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td rowspan=1 colspan=1></td></tr></table>",
+        "bbox": [
+            33,
+            750,
+            386,
+            837
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "抖音BGC运营亮点观察 ",
+        "text_level": 1,
+        "bbox": [
+            631,
+            148,
+            758,
+            177
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "HOKA ",
+        "text_level": 1,
+        "bbox": [
+            421,
+            229,
+            463,
+            255
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "与多领域运动员深度合作，助力品牌多元化发展",
+        "text_level": 1,
+        "bbox": [
+            512,
+            225,
+            735,
+            255
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "g ",
+        "text_level": 1,
+        "bbox": [
+            788,
+            222,
+            803,
+            264
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "创意短片内容营销",
+        "text_level": 1,
+        "bbox": [
+            841,
+            227,
+            929,
+            253
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "image",
+        "img_path": "images/58dae82fd102a0567778f3dd1f08c45dfc9e9655a7559502246fa7a21cb3691f.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            428,
+            277,
+            538,
+            587
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "4月26日成都太古里0n昂跑首家旗舰店，即将启幕敬请期待#On昂跑#On昂跑旗舰店#成都太古里",
+        "bbox": [
+            808,
+            287,
+            956,
+            366
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "image",
+        "img_path": "images/c32ea7786f9d1a2e45fbf90f9b771b294792654ba74d5e5da5f8835193678d1d.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            545,
+            279,
+            655,
+            590
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "image",
+        "img_path": "images/02ee5a7b63544a6823a2ea329d4069c812ff19ea50bec17183be6578a990dc0a.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            665,
+            277,
+            775,
+            588
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "#飞要这样 浪花飞扬的世界里，每一次换气蹬腿与大地之上的一呼一吸，提髋向前澎湃引领渴望速度与力量的心，不痛快，不停息",
+        "bbox": [
+            427,
+            638,
+            534,
+            766
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "image",
+        "img_path": "images/a02e1ac22ab481fa6f4d0e87f6682bbf68b9f65c4d03cca892bbee8e5dbd6cfd.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            789,
+            379,
+            968,
+            601
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "5 1 11 - ",
+        "text_level": 1,
+        "bbox": [
+            547,
+            596,
+            648,
+            618
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "#飞要这样没有对手的擂台只有自我的跑道。跑，是对话自我的唯一方式。发力对吗？能更快吗？我能做到吗？用跑的，先贏自己，再贏个遍，那只不服输的飞鹰",
+        "bbox": [
+            548,
+            624,
+            656,
+            779
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "6 2 216 - ",
+        "text_level": 1,
+        "bbox": [
+            665,
+            598,
+            765,
+            620
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "#飞要这样 追逐纯粹速度的世界里赛场内外考验着同一种力度一一对自己的狠劲，敢把曾经的记录冲个粉碎，已经没什么，能挡住",
+        "bbox": [
+            665,
+            638,
+            769,
+            768
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "CC 天空，从不设限赞达亚，与你同行《2025太空漫跑》已启动这一次,我们能跑多远？",
+        "bbox": [
+            796,
+            642,
+            953,
+            722
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "image",
+        "img_path": "images/14f3f02d9c4097b81d8c6d512acebdbe29608e8fee42ed25925f2906649dfbc9.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            806,
+            731,
+            962,
+            890
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "“HOKA通过与不同领域运动员签约合作 将品牌受众拓展至更广泛的运动爱好者 推动了品牌形象的多元化发展；同时，在品牌文案中强调「突破自我」这一核心主题，不仅与运动员职业精神契合，也与HOKA品牌理念「飞要这样」达成共鸣\"",
+        "bbox": [
+            439,
+            801,
+            761,
+            879
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "4月小红书平台BGC运营中，HOKA和XTPE表现突出：HOKA打出「正正好」的概念，贯穿明星运动员宣发、生活态度展示以及新品上市营销，形成传播记忆点；XTEP走入校园，瞄准青少年消费群体，通过体教结合的方式进行品牌与产品推广，渗透TA心智",
+        "text_level": 1,
+        "bbox": [
+            58,
+            11,
+            870,
+            122
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "小红书BGC运营亮点观察",
+        "text_level": 1,
+        "bbox": [
+            623,
+            146,
+            762,
+            179
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "HOKA ",
+        "text_level": 1,
+        "bbox": [
+            421,
+            229,
+            463,
+            255
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "明星运动员 X 生活态度展示助力新品推广",
+        "text_level": 1,
+        "bbox": [
+            476,
+            227,
+            665,
+            255
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "X特步 ",
+        "text_level": 1,
+        "bbox": [
+            706,
+            227,
+            747,
+            255
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "从产品推广转向体教结合的营销方式升级",
+        "text_level": 1,
+        "bbox": [
+            769,
+            227,
+            961,
+            255
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "image",
+        "img_path": "images/ac778660ed9e59a6a26b299a0f15ac8dec859824a0456b888858772579da15a3.jpg",
+        "image_caption": [
+            "小红书平台各品牌BGC表现"
+        ],
+        "image_footnote": [],
+        "bbox": [
+            19,
+            238,
+            400,
+            681
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "table",
+        "img_path": "images/df53a8a6c8d32acc9c0f647a392308a6267e941b9d4c768b86b91c076ed72b65.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=1 colspan=8>+9K                            +3K    +3K              +3K</td></tr><tr><td rowspan=1 colspan=1>品牌</td><td rowspan=1 colspan=1>ANTA</td><td rowspan=1 colspan=1>XTEP</td><td rowspan=1 colspan=1>SAUCONY</td><td rowspan=1 colspan=1>NEWBALANCE</td><td rowspan=1 colspan=1>ASICS</td><td rowspan=1 colspan=1>HOKA</td><td rowspan=1 colspan=1>ON昂跑</td></tr><tr><td rowspan=2 colspan=1>小红书主账号粉丝数</td><td rowspan=1 colspan=1>191,000</td><td rowspan=1 colspan=1>111,000</td><td rowspan=1 colspan=1>54,000</td><td rowspan=1 colspan=1>76,000 =====</td><td rowspan=2 colspan=1>40,000</td><td rowspan=2 colspan=1>34,000</td><td rowspan=1 colspan=1>45,000</td></tr><tr><td rowspan=1 colspan=1>-----------</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr></table>",
+        "bbox": [
+            36,
+            718,
+            382,
+            833
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "image",
+        "img_path": "images/00435ad176cde190322dfe0d396cde8dcd0bec25a1688f0aaece4bef0f93075d.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            542,
+            288,
+            559,
+            320
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "image",
+        "img_path": "images/4408470b71aaa04c4d67b70d5e5faa810f97f60a259f021aed16d8d8c19cb0d4.jpg",
+        "image_caption": [
+            "52 671 10 "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            419,
+            285,
+            537,
+            427
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "【该怎么形容「正正好」的感觉？那种跑对了，跑够了，或者跑爽了的感觉或许只有跑过了才知道从天蒙蒙亮跑到正好与朝阳打个招面每一步都正好踩在音乐节拍上用9分配速正好在舒适圈里兜圈对你而言的畅快，就是正正好！ ",
+        "bbox": [
+            421,
+            494,
+            571,
+            659
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "是HOKA品牌大使（鞋履系列）汪顺追  \n逐澎湃的一路畅快  \n是@Boxing常园与自己的对话  \n是@高亭宇不断突破自我  \n或许我们会正正好跑出同一种节奏  \n却会跑出正正好属于自己的态度",
+        "bbox": [
+            560,
+            288,
+            686,
+            427
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "image",
+        "img_path": "images/e6621c0e568502580a222f06203e860733e74e08c0fe497133f0d7b0b6328308.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            419,
+            698,
+            540,
+            894
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "image",
+        "img_path": "images/bffaede10850e9d500c83b100374f3be461a451345c24e757d9930335af99746.jpg",
+        "image_caption": [
+            "23 118 40 "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            584,
+            496,
+            695,
+            640
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "image",
+        "img_path": "images/1eb87b67e1fc71286f18ecbb366d46cc2d95e832c12efe67258d3ab21979070f.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            725,
+            279,
+            969,
+            444
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "如果，几何学中存在一个「黄金比例」跑步也一定存在一个临界点，这个点跑者们称之为「正正好」，HOKA称之新一代CLIFTON10，现已上市！「十」的好，跑感「正正」好 J",
+        "bbox": [
+            560,
+            727,
+            689,
+            868
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "image",
+        "img_path": "images/3db8c1c9e5078a1848bdfdb8d62978536665acd8bda47f532d6a0c13d504f0a0.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            725,
+            461,
+            969,
+            590
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "image",
+        "img_path": "images/af81701c24eea32668f3103fd3c1386efde16eea2fcf632994dd20359e4ce2d1.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            726,
+            609,
+            832,
+            740
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "飞一般跑步课堂|东北师大附中站  \n特步×学体联「校园健康跑」  \n冠军、博主空降东北师大附中亲授跑步秘笈#传递奔跑的力  \n量  \n稳当、顺溜、嘎嘎...  \n特步360X2.0助力同学们#跑出飞一般 JJ",
+        "bbox": [
+            851,
+            653,
+            972,
+            892
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "image",
+        "img_path": "images/7ac632b058cbca0837b06b225bcfc020a2baa219f24ee9d283d66cfcba5d066c.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            726,
+            759,
+            832,
+            892
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "4月PGC声量和互动量平台分布：ANTA、XTEP声量上持续领先，延续以微博、抖音为基盘的投放策略；NEWBALANCE于小红书，On昂跑于抖音表现亮眼，腰尾部投放效果出色；ASICS微博的高互动主要源于田嘉瑞本人账号的活动宣发",
+        "text_level": 1,
+        "bbox": [
+            54,
+            31,
+            853,
+            142
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "微信平台\\*各品牌PGC声量",
+        "text_level": 1,
+        "bbox": [
+            76,
+            214,
+            220,
+            244
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "\\*因微信PGC以提及品牌的资讯、行研、广告为主且体量较大，不参与平台分布的分析",
+        "bbox": [
+            46,
+            255,
+            246,
+            300
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "image",
+        "img_path": "images/26c534bbb26c60833f18daa9c002ed3a5d11c71973db68ed92503c64050a7ff7.jpg",
+        "image_caption": [
+            "PGC声量平台\\*分布",
+            "BUZZ \\*不包含微信平台"
+        ],
+        "image_footnote": [],
+        "bbox": [
+            280,
+            285,
+            626,
+            820
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "image",
+        "img_path": "images/776a9328654863f1bca0b6cf0df8df08828310f158a4b6843087db3e169c6700.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            11,
+            322,
+            240,
+            848
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "image",
+        "img_path": "images/1daf0cf9d564178bdff95c0d4fda12e1bd82eaf96f89b4da9054013a5a1d7d20.jpg",
+        "image_caption": [
+            "PGC互动量平台\\*分布",
+            "ENGAGEMENT \\*不包含微信平台",
+            "$( n { = } 6 . O M )$ $\\left( n { = } 2 . 6 M \\right)$ $( n { = } 6 1 1 K )$ $( n { = } 8 7 7 K )$ (n=265K) (n=275K) (n=118K) "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            648,
+            300,
+            990,
+            820
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "$( n { = } 1 4 . 3 K )$ $( n { = } 6 . 9 K )$ $( n { = } 4 . 2 K )$ $\\scriptstyle ( n = 1 . 6 K )$ $( n { = } 6 5 3 )$ (n=359) (n=319) ",
+        "bbox": [
+            283,
+            831,
+            618,
+            857
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "NEW BALANCE小红书PGC投放观察：New Balance通过大规模布局尾部KOL，并搭配少量肩腰部KOL进行组合投放；尾部：借助长尾流量进行产品铺陈，攻占眼球；腰肩部：根据产品特性优选博主（如740聚焦于女性穿搭博主的投放），以精准覆盖契合度高的粉丝群体",
+        "text_level": 1,
+        "bbox": [
+            53,
+            31,
+            890,
+            142
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "image",
+        "img_path": "images/44d2124a4f904c8fbb19089f2d7628125cdf3e2440dae72b66fed450b63f4007.jpg",
+        "image_caption": [
+            "PGC单帖互动量"
+        ],
+        "image_footnote": [],
+        "bbox": [
+            706,
+            211,
+            865,
+            929
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "TOP互动量贴文展示",
+        "text_level": 1,
+        "bbox": [
+            778,
+            183,
+            896,
+            211
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "@热牛奶 ",
+        "text_level": 1,
+        "bbox": [
+            881,
+            229,
+            929,
+            251
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "image",
+        "img_path": "images/8ece7fb67a506f4ed00f9255ca3bf8f37b0e05830965e97883cf7d550b10fc0b.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            878,
+            272,
+            892,
+            294
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "粉丝级别 ",
+        "bbox": [
+            893,
+            274,
+            935,
+            294
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "image",
+        "img_path": "images/d307148651caca2e156f2acc7d9f162697814624071006fccec96f0702191812.jpg",
+        "image_caption": [
+            "各层级PGC发帖数量占比 "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            29,
+            268,
+            670,
+            861
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "3.4w 互动量",
+        "bbox": [
+            877,
+            309,
+            941,
+            331
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "分享穿搭日常推广NEWBALANCE740跑鞋",
+        "bbox": [
+            877,
+            353,
+            947,
+            411
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "@猪仔煲捞面",
+        "text_level": 1,
+        "bbox": [
+            882,
+            470,
+            941,
+            492
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "T3 粉丝级别 ",
+        "bbox": [
+            878,
+            514,
+            935,
+            537
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "4.9k 互动量",
+        "bbox": [
+            877,
+            550,
+            937,
+            572
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "分享穿搭日常推广NEWBALANCE740BN2",
+        "bbox": [
+            877,
+            594,
+            947,
+            650
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "@葵花妙飞鱼 ",
+        "text_level": 1,
+        "bbox": [
+            881,
+            711,
+            939,
+            731
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "T3 粉丝级别 ",
+        "bbox": [
+            878,
+            755,
+            935,
+            777
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "3.2k 互动量",
+        "bbox": [
+            877,
+            788,
+            937,
+            811
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "分享穿搭日常推广NEWBALANCE740 镁光银",
+        "bbox": [
+            877,
+            835,
+            947,
+            890
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "PART IV ",
+        "text_level": 1,
+        "bbox": [
+            43,
+            420,
+            230,
+            503
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "APR-25 消费者口碑(UGC)研究",
+        "bbox": [
+            40,
+            537,
+            472,
+            611
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "4月消费者口碑表现概览：行业半数声量依然来自明星，尤以ASICS-田嘉瑞、ANTA-王一博、HOKA-汪顺贡献最多；与上月相比，产品讨论占比保持稳定的同时，品牌活动占比显著上升（3月6% -> 4月13%）；明星红利逐渐退潮后，ASICS的情感表现回归中游，略高于行业平均水平；NEW BALANCE的高正面分布和SAUCONY的高负面分布均由产品口碑驱动",
+        "text_level": 1,
+        "bbox": [
+            59,
+            25,
+            886,
+            129
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "image",
+        "img_path": "images/1f4ff652d5b57b6619ac97647926f8e260e502813a826b80be3fe6ab9e1068c8.jpg",
+        "image_caption": [
+            "UGC内容分类"
+        ],
+        "image_footnote": [],
+        "bbox": [
+            67,
+            240,
+            332,
+            696
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "image",
+        "img_path": "images/0fd47cfe618b225b6a2b871eb29694cace8f4c572280f76fe7ed1d3f03105b69.jpg",
+        "image_caption": [
+            "各品牌UGC情感表现"
+        ],
+        "image_footnote": [],
+        "bbox": [
+            391,
+            244,
+            918,
+            907
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "4月各品牌正面UGC讨论话题：NEW BALANCE对471的大力营销带动了女性消费者对该款产品高颜值的关注，毒刺和CLOUDMONSTER的上佳口碑则主要由实战性能驱动；SAUCONY和On昂跑的社群活动本月依然在抖音和小红书平台广为传播",
+        "text_level": 1,
+        "bbox": [
+            58,
+            11,
+            841,
+            122
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "image",
+        "img_path": "images/25288cb5205e330eb6593d96e7a30ab73af53377a9695b00fb48b5100cabc689.jpg",
+        "image_caption": [
+            "各品牌正面UGC讨论内容类别分布"
+        ],
+        "image_footnote": [],
+        "bbox": [
+            43,
+            235,
+            414,
+            861
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "image",
+        "img_path": "images/529209051d4caeb76babcbabfaa0136edeaff0f99bcd11182e49baa4368dfae2.jpg",
+        "image_caption": [
+            "高口碑健康度的核心产品系列和品牌活动",
+            "\\*NB574过往月份持续位列TOP3，本月不再重复分析 "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            492,
+            218,
+            768,
+            638
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "NEW BALANCE 471 颜值高，配色好看 ",
+        "text_level": 1,
+        "bbox": [
+            778,
+            231,
+            864,
+            272
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "\"471是怎么做到每双配色都这么好看的？“ “海盐白的配色清清爽爽”“最近真的反复爱 上471这双鞋双色鞋带可太有辨识度” \"471可露丽自带滤镜上脚简约大气\" ",
+        "bbox": [
+            772,
+            279,
+            943,
+            355
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "ANTA 毒刺 实战利器，透气性强 ",
+        "text_level": 1,
+        "bbox": [
+            778,
+            372,
+            856,
+            418
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "\"配速3分50秒多一点，大幅刷新10km最快成绩鞋面透气到像会呼吸，夏天暴走5公里都不闷脚”“#体测逆袭计划直到我挖到安踏毒刺6代缓震回弹让我跑着超轻松”",
+        "bbox": [
+            771,
+            429,
+            938,
+            501
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "On CLOUDMONSTER缓震回弹，跑感一流",
+        "text_level": 1,
+        "bbox": [
+            779,
+            520,
+            869,
+            561
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "“轻量缓震效果一流，跑起步来轻松又舒适\"“每一步都像踩在弹簧上，回弹感超强”\"本来担心双层泡棉中底会不稳容易崴脚但跑鞋落地时刻我没感到晃动反而感觉到回弹动力推进我的脚掌",
+        "bbox": [
+            773,
+            572,
+            938,
+            662
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "ACTIVITY ",
+        "text_level": 1,
+        "bbox": [
+            538,
+            664,
+            589,
+            688
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "抖音 #跟着昂跑一起跑 话题下各地跑友分享运动生活",
+        "text_level": 1,
+        "bbox": [
+            507,
+            701,
+            633,
+            738
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "saucony ",
+        "text_level": 1,
+        "bbox": [
+            654,
+            705,
+            689,
+            722
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "于Oleh-Oleh Festival，打卡 “HOUSE OF SAUCONY ",
+        "text_level": 1,
+        "bbox": [
+            700,
+            703,
+            800,
+            737
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "参与沈阳跑步训练营活动",
+        "text_level": 1,
+        "bbox": [
+            827,
+            709,
+            921,
+            729
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "image",
+        "img_path": "images/053b225a8fec1134f0e1108d10ea242022e3b9adfc2c7e2c197293a90320c422.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            520,
+            744,
+            634,
+            892
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "image",
+        "img_path": "images/d52a193308f7e5b6411c354bb3a3fe931daaa41a60e31c9f2d12906436934172.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            687,
+            746,
+            802,
+            903
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "image",
+        "img_path": "images/1d5a108762bb301eb3434c4f46c6b729d2ff6d0d9357002896ef3714b028756e.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            820,
+            744,
+            933,
+            914
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "4月各品牌负面UGC讨论话题：ANTA对狼爪的收购和HOKA汪顺宣传物料的争议形成了一定负面舆情；产品端，除160X持续收到较多恶评外，啡速的磨脚问题、C202的脚感过硬和BONDI的防滑性能是各自口碑受到拖累的因素；同时，产品（尤其高端系列）是否具备耐用性似乎正受到消费者的普遍关注；对ASICS品牌层面的负面反馈主要聚焦于电商服务和疑似售假",
+        "bbox": [
+            59,
+            16,
+            875,
+            116
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "低口碑健康度的核心产品系列及其他负面舆情",
+        "text_level": 1,
+        "bbox": [
+            596,
+            175,
+            851,
+            205
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "image",
+        "img_path": "images/2b6096c45f5dd343dde8636bc3b0d4b955d9e7a6eef80c531312c3c754e358d6.jpg",
+        "image_caption": [
+            "各品牌负面UGC讨论内容类别分布"
+        ],
+        "image_footnote": [],
+        "bbox": [
+            43,
+            235,
+            414,
+            861
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "BOTTOM PRODUCTs ",
+        "text_level": 1,
+        "bbox": [
+            507,
+            237,
+            616,
+            262
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "以各品牌主流产品系列的NSR排序",
+        "bbox": [
+            502,
+            275,
+            631,
+            296
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "SAUCONY 啡速 紧窄磨脚，长距性能衰减 ",
+        "text_level": 1,
+        "bbox": [
+            783,
+            231,
+            879,
+            274
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "image",
+        "img_path": "images/0044069cfacac23b27d300fa8a14418c61a8634417224b3f021ad0c21ad93b0f.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            733,
+            248,
+            775,
+            344
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "夹尾指水泡不要了” “已有啡速3，觉得里就开始功能减退，就像踩着石头一样”",
+        "bbox": [
+            780,
+            283,
+            934,
+            359
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "ANTA C202 脚感太硬，掉漆不耐磨 ",
+        "text_level": 1,
+        "bbox": [
+            784,
+            387,
+            869,
+            427
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "image",
+        "img_path": "images/0d399e0bb002753a04d8303ca90573d297dfa1028c9953ae44b68840efaf000f.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            733,
+            405,
+            775,
+            503
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "image",
+        "img_path": "images/1f423f160c938dea8cd1da58e02346b44a78fde6f85f569b0b19288e1a21266d.jpg",
+        "image_caption": [
+            "\\*160X、啡翼过往月份持续位列BOTTOM3，本月不再重复分析 "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            503,
+            303,
+            698,
+            674
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "\"C2026代三个月越来越硬” \"也煤说格桑花会掉漆啊#安踏C202“ “安踏c202大底太不耐磨了” ",
+        "bbox": [
+            786,
+            437,
+            927,
+            511
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "HOKA BONDI 不耐穿，防滑不佳 ",
+        "text_level": 1,
+        "bbox": [
+            784,
+            535,
+            854,
+            577
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "image",
+        "img_path": "images/66196c327043f52f149806f345710a44253789a8f1ae05855cb2eaf40e01bb42.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            733,
+            557,
+            775,
+            655
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "下降明显，是不是有点尴尬使用环保胶水，所以不可避免””避雷bondi8，很容易打滑",
+        "bbox": [
+            780,
+            585,
+            945,
+            675
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "BRAND ",
+        "text_level": 1,
+        "bbox": [
+            543,
+            720,
+            583,
+            740
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "CELEBRITY ",
+        "text_level": 1,
+        "bbox": [
+            855,
+            720,
+            912,
+            742
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "安踏拟2.9亿美元收购狼爪",
+        "text_level": 1,
+        "bbox": [
+            533,
+            766,
+            630,
+            783
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "新闻下存在较多负面评价，消费者联想之前品牌对斐乐、萨洛蒙等品牌的收购，认为被收购后狼爪将大幅涨价且品质可能下降",
+        "bbox": [
+            532,
+            785,
+            637,
+            875
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "dasics ",
+        "text_level": 1,
+        "bbox": [
+            647,
+            770,
+            685,
+            794
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "对ASICS品牌层面的负面观点主要聚焦于品牌电商的服务和售假问题：",
+        "bbox": [
+            690,
+            764,
+            810,
+            818
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "\"血泪教训！天猫ASICS旗舰店 发错货不认账 “避雷亚瑟士， 惯犯发假货” \"@asics旗舰店欺骗消费者， 发外观有损耗的鞋 ",
+        "bbox": [
+            690,
+            820,
+            809,
+            911
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "HOKA ",
+        "text_level": 1,
+        "bbox": [
+            822,
+            768,
+            856,
+            792
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "汪顺的品牌宣传照受到些粉丝的恶评，认为造型和摄影都存在问题，影响明星形象",
+        "bbox": [
+            858,
+            764,
+            947,
+            838
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "4月除去明星流量，ASICS产品讨论占比大幅高于行业平均，高频提及的产品条线较上月保持稳定（仅METASPEED取代GEL-RESOLUTION）；各条线整体情感表现不俗，但核心型号KAYANO、NIMBUS相对有更多典型的负面讨论，集中于对产品耐用性的质疑",
+        "text_level": 1,
+        "bbox": [
+            57,
+            11,
+            879,
+            122
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "除去明星流量，4月ASICS产品相关UGC内容占比显著高于行业水平：",
+        "bbox": [
+            35,
+            161,
+            285,
+            220
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "NSR ",
+        "bbox": [
+            643,
+            168,
+            667,
+            192
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "较有代表性的产品负面讨论",
+        "text_level": 1,
+        "bbox": [
+            757,
+            161,
+            911,
+            192
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "image",
+        "img_path": "images/ca8b082da4bebc6146b0fe2e15d36034f3c2cc7a3d518d1ffe2c6250c8a34071.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            40,
+            275,
+            300,
+            827
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "image",
+        "img_path": "images/36a9b1d32c58eeb342a771d783250a484d58ddd74eb55a8b23db1ea37e48eefa.jpg",
+        "image_caption": [
+            "主要产品系列占ASICS产品讨论比例"
+        ],
+        "image_footnote": [],
+        "bbox": [
+            318,
+            225,
+            636,
+            862
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "METASPEED替代了3月的GEL-RESOLUTION，成为新上榜的高频讨论产品条线 ",
+        "bbox": [
+            356,
+            198,
+            596,
+            216
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "96.4 ",
+        "bbox": [
+            644,
+            418,
+            667,
+            438
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "96.2 ",
+        "bbox": [
+            643,
+            496,
+            667,
+            520
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "96.3 ",
+        "bbox": [
+            643,
+            575,
+            667,
+            600
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "94.6 ",
+        "bbox": [
+            644,
+            816,
+            667,
+            837
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "87.7 ",
+        "bbox": [
+            644,
+            657,
+            667,
+            677
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "image",
+        "img_path": "images/05bb01fc94d0934fe2594297f2a5c48fe8283f2e036ebd6bc12ad2cfa701c763.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            725,
+            274,
+            781,
+            401
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "image",
+        "img_path": "images/dc5d2e208146eafeaeae355939ae1542305e04ad30c435e8fe7b300940774df2.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            726,
+            796,
+            782,
+            922
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "GEL-KAYANO 耐用性差 ",
+        "text_level": 1,
+        "bbox": [
+            791,
+            211,
+            858,
+            253
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "“才穿了一天，鞋头就裂痕塌陷了。申请换货  \n和我说是正常情况“才穿了短短半个月，鞋面居然破了个洞！在  \n购物平台上一搜，好家伙，全是吐槽同样售后  \n问题的帖子\"\"这双Kayano29去年12月买的，到现在的跑  \n量还没50km，跑步我和gt2000-10换着穿，  \n通勤和UB21换着穿这鞋面就开始破洞了\"“被Kayano31伤透了脚，再开裂就放弃亚瑟“感觉是亚瑟士国内的品质问题。在大阪买了  \n两双kayano，都很好穿",
+        "bbox": [
+            791,
+            266,
+            941,
+            455
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "image",
+        "img_path": "images/c86914a7df377311788f67f94fdc7fc31a7c74f274a7655c0208d0e1245f9b0d.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            725,
+            540,
+            781,
+            744
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "GEL-NIMBUS ",
+        "text_level": 1,
+        "bbox": [
+            792,
+            481,
+            855,
+            500
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "耐用性差 ",
+        "text_level": 1,
+        "bbox": [
+            792,
+            501,
+            842,
+            522
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "\"以后基本上不会再买nimbus了，妈的最多一年鞋面就破了，减震也硬了\"“来自两代Nimbus用户的心声，快的三个月，慢的一年内，鞋面必磨破，如果磨破了，恭喜\"亚瑟士nimbus26这么容易破的吗，不到百",
+        "bbox": [
+            792,
+            537,
+            941,
+            648
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "过软，支撑性弱",
+        "text_level": 1,
+        "bbox": [
+            798,
+            662,
+            866,
+            679
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "\"反正我每次穿他都是脚后跟腱脚后跟那附近疼，或者就是膝盖疼，可能是太软了\"\"nimbus系列现在是越来越软，对足部支撑几乎快丧失了\"",
+        "bbox": [
+            792,
+            681,
+            939,
+            742
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "NOVABLAST ",
+        "text_level": 1,
+        "bbox": [
+            791,
+            772,
+            851,
+            790
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "磨脚，舒适性差 ",
+        "text_level": 1,
+        "bbox": [
+            791,
+            794,
+            864,
+            811
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "\"novablast会不停的给我的脚磨出水泡，很痛，只有前两公里是享受的",
+        "bbox": [
+            791,
+            812,
+            937,
+            842
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "退货纠纷 (个例) ",
+        "text_level": 1,
+        "bbox": [
+            790,
+            861,
+            864,
+            877
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "“请大家避雷亚瑟士，出售劣质商品还不让退 货！.鞋底软的要死，试穿几下就说磨损了， 真搞笑！#亚瑟士避雷#“ ",
+        "bbox": [
+            791,
+            879,
+            939,
+            924
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "THANK YOU ",
+        "text_level": 1,
+        "bbox": [
+            53,
+            240,
+            398,
+            344
+        ],
+        "page_idx": 28
+    },
+    {
+        "type": "image",
+        "img_path": "images/f7e397caaa03510731a415f02bb653365fa4943aadacf394dbe3c64f76097859.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            3,
+            438,
+            1000,
+            1000
+        ],
+        "page_idx": 28
+    }
+]

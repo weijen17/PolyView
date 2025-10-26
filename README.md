@@ -92,6 +92,9 @@ cp .env.example .env
 5. Run the application:
 ```bash
 # Place your file in the input folder
+# Run minerU to extract text and images, install minerU beforehand.
+# Modify filename in main.py file
+mineru -p [input folder or file] -o [output folder or file]
 python main.py
 # Check out the result in the output folder
 ```

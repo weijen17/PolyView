@@ -2,7 +2,6 @@
 import os
 import json
 from pathlib import Path
-import pandas as pd
 from transformers import AutoModelForCausalLM, AutoTokenizer
 import time
 import torch
@@ -12,6 +11,7 @@ import math
 
 
 ######################################################################
+
 class parse_module():
     def __init__(self ,doc_path ,_filename):
         self._filename = _filename
@@ -58,7 +58,7 @@ class parse_module():
 class extraction_module():
     def __init__(self,l_page):
         self.l_page = l_page
-        model_name = "Qwen/Qwen3-4B"
+        model_name = "Qwen/Qwen3-8B"
         self.tokenizer = AutoTokenizer.from_pretrained(model_name)
         self.model = AutoModelForCausalLM.from_pretrained(
             model_name,
@@ -172,47 +172,3 @@ class extraction_module():
                 pass
             counter+=1
         return l_retain
-
-######################################################################################################
-
-
-
-if __name__ == "__main__":
-    base_dir = Path(__file__).parent.parent.parent  # Goes to Prod/
-    output_dir = base_dir / "output"
-
-    print('***' * 20)
-    print('Parsing commencing ...')
-    print('***' * 20)
-    _filename = 'ASICS_Social_Listening_Report_April_2025'
-    parse_init = parse_module(output_dir,_filename)
-    res1 = parse_init._parse()
-    print(res1)
-    for _ in res1[2]:
-        print(_)
-    print('***' * 20)
-    print('Parsing completed ...')
-    print('***' * 20)
-
-    print('***' * 20)
-    print('Extraction commencing ...')
-    print('***' * 20)
-    extraction_init = extraction_module(res1[2])
-    res2 = extraction_init._extract()
-    print(res2)
-    print('***' * 20)
-    print('Extraction completed ...')
-    print('***' * 20)
-
-    res3 = extraction_init._retain()
-    print(res3)
-    for _ in res3:
-        print(_)
-
-    print('***' * 20)
-    print('Key finding retention completed ...')
-    print('***' * 20)
-
-
-
-
